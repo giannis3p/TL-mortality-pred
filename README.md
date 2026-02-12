@@ -1,4 +1,4 @@
-# 
+# Prospective Multicenter Validation of Machine Learning Models for Mortality Prediction in Adult Critically Ill Patients using Transfer Learning
 
 - <code>Figures/</code>: Contains the figures used in the manuscript.
 - <code>scripts/</code>: Contains the scripts used to train the ML models.
