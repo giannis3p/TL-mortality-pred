@@ -13,3 +13,4 @@ pip install xgboost==3.1.2 <br />
 pip install catboost==1.2.8 <br /> 
 pip install numpy==2.3.5 <br /> 
 pip install scikit-learn==1.8.0 <br /> 
+pip install optuna==4.6.0 <br /> 
