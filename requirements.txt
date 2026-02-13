@@ -1,0 +1,7 @@
+torch==2.9.1
+lightgbm==4.6.0
+xgboost==3.1.2
+catboost==1.2.8
+numpy==2.3.5
+scikit-learn==1.8.0
+optuna==4.6.0
